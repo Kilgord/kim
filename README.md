@@ -1,5 +1,2 @@
-[Links](http://google.com)
-
-* Lists
-* of
-* items
+h1 Бот для VK на Python
+Пример простого бота для ВКонтакте на Python 3. Обработка событий с использованием Bots Long Poll API
