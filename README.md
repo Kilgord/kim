@@ -6,11 +6,13 @@
 <h3>Установка библиотек</h3>
 <p><code>pip3 install vk requests</code></p>
 <h3>Получение ключа доступа VK API</h3>
-<p>"Ключ доступа к VK API можно получить в настройках сообщества, там же нужно"
+<p>
+"Ключ доступа к VK API можно получить в настройках сообщества, там же нужно "
 <strong> включить Long Poll API</strong> 
-",как минимум для доступа к сообщениям и управления сообществом.
+", как минимум для доступа к сообщениям и управления сообществом.
 "
-</p>
 <a>
-![screenshot of sample](https://camo.githubusercontent.com/5fd4079a1c460e12491a906e9710e89ed3b45642/68747470733a2f2f692e696d6775722e636f6d2f306f75785737422e706e67)
+![screenshot of sample](http://webdesign.ru.net/images/Heydon_min.jpg)
+
 </a>
+</p>
