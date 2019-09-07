@@ -23,14 +23,14 @@
 <h3> Запуск бота</h3>
 <p>Получив API-токен прописываем его после импорта библиотек:
 </p>
-<a><li><code>
-import requests
-import bs4
-import urllib.request
-import re
-from datetime import datetime
-token = "Полученный токен"
-class VkBot:
-</li>
+<a><code>
+<a>import requests</a>
+<a>import bs4</a>
+<a>import urllib.request</a>
+<a>import re</a>
+<a>from datetime import datetime</a>
+<a>token = "Полученный токен"</a>
+<a>class VkBot:</a>
+
 </code></a>
 
