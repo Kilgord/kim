@@ -24,12 +24,12 @@
 <p>Получив API-токен прописываем его после импорта библиотек:
 </p>
 <a><code>
-import requests
-import bs4
-import urllib.request
-import re
-from datetime import datetime
-token = "Полученный токен"
-class VkBot:
+*import requests
+*import bs4
+*import urllib.request
+*import re
+*from datetime import datetime
+*token = "Полученный токен"
+*class VkBot:
 </code></a>
 
