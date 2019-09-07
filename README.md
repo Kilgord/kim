@@ -11,7 +11,7 @@
 <strong> включить Long Poll API</strong> 
 , как минимум для доступа к сообщениям и управления сообществом.
 <a>
-src="https://camo.githubusercontent.com/5fd4079a1c460e12491a906e9710e89ed3b45642/68747470733a2f2f692e696d6775722e636f6d2f306f75785737422e706e67"
+<img src="https://camo.githubusercontent.com/5fd4079a1c460e12491a906e9710e89ed3b45642/68747470733a2f2f692e696d6775722e636f6d2f306f75785737422e706e67">
 </a>
 </p>
 
