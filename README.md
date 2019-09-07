@@ -23,7 +23,7 @@
 <h3> Запуск бота</h3>
 <p>Получив API-токен прописываем его после импорта библиотек:
 </p>
-<a><code>
+<pre><code>
 
 " import requests
  import bs4
@@ -33,5 +33,5 @@
  token = "Полученный токен"
  class VkBot:
 "
-</code></a>
+</code></pre>
 
