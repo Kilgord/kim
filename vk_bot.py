@@ -59,7 +59,10 @@ namespace ConsoleApp11
         {
             
             
-            System.Console.WriteLine(Calculator.mi(2, 2), Calculator.del(2, 2),  Calculator.umn(2, 2),  Calculator.Summa(2, 2));
+            Console.WriteLine(Calculator.mi(2, 2));
+            Console.WriteLine(Calculator.del(2, 2));
+            Console.WriteLine(Calculator.umn(2, 2));
+            Console.WriteLine(Calculator.Summa(2, 2));
             Console.ReadKey();
 
         }
