@@ -8,8 +8,7 @@ namespace ConsoleApp11
 {
     public class Calculator
     {
-        public int a;
-        public int b;
+        
 
 
 
